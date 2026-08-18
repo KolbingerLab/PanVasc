@@ -7,4 +7,4 @@ PanVasc is a shape-based framework that converts the segmented tumor and peripan
 2. Second, we reduce this surface field to an encasement profile. We represent the circumferential angle of tumor contact as a continuous function of tumor position along each vessel or vascular branch. This is computed on the true vessel surface using a rotation-minimizing frame and explicit handling of vascular branching.
 3. Third, we summarize each profile by the area under the encasement curve and peak encasement angle, two scalars that capture how much of the vessel is contacted and how tightly. This provides candidate interpretable preoperative markers to support surgical planning.
 
-![Project overview](assets/Render.tiff)
+![Project overview](assets/Render.png)
