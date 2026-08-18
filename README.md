@@ -8,5 +8,5 @@ PanVasc is a shape-based framework that converts the segmented tumor and peripan
 3. Third, we summarize each profile by the area under the encasement curve and peak encasement angle, two scalars that capture how much of the vessel is contacted and how tightly. This provides candidate interpretable preoperative markers to support surgical planning.
 
 <p align="center">
-  <img src="assets/Render.png" width="100%">
+  <img src="assets/Render.png" width="75%">
 </p>
