@@ -1,5 +1,5 @@
 # PanVasc
-PanVasc: A Shape-Aware Framework for Peripancreatic Vascular Invasion Assessment in Pancreatic Ductal Adenocarcinoma
+A Shape-Aware Framework for Peripancreatic Vascular Invasion Assessment in Pancreatic Ductal Adenocarcinoma
 
 ## What is PanVasc?
 PanVasc is a shape-based framework that converts the segmented tumor and peripancreatic vessels into explicit, quantitative descriptions of their spatial relationship. Our contributions are threefold: 
