@@ -22,7 +22,7 @@ VESSEL_LABELS = {
 TUMOR_LABEL = 10
 
 # Rendering settings
-max_distance_mm = 50.0
+max_distance_mm = 50.0 # Can change
 smooth_iterations = 20
 window_size = (2200, 1600)
 off_screen = True
